@@ -12,7 +12,7 @@ This project demonstrates how I deployed my personal portfolio website using AWS
 
 ## 🏗️ Architecture Diagram
 
-![Architecture](images/architecture.png)
+![Architecture](S3static.png.png)
 
 ---
 
